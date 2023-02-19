@@ -1,0 +1,100 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
+body {
+	background: linear-gradient(to left bottom, #FFFDD0 50%, #F5F5DC 50%);
+	background-size: cover;
+	
+
+}
+
+h1 {
+	color: black;
+
+
+}
+
+img {
+	height: 645.25px;
+	width: auto;
+	float: right;
+	border-radius: 80%;
+
+
+
+}
+
+.work, .education, .volunteer, .skills, .contact {
+	color: black;
+	font-family: 'Anton', sans-serif;
+	text-decoration-line: underline;
+		margin-left: 10px;
+
+	
+	 }
+
+.resume {
+	font-family: 'Anton', sans-serif;
+		text-align: center;
+
+
+}
+ul {
+	list-style-type: square; color: #6F4E37;
+
+}
+
+
+.titles {
+	color: #6F4E37;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+
+
+}
+
+.work, .name, .education, .volunteer, .skills, .contact, .resume {
+	color: #6F4E37;
+
+}
+
+}
+
+.lists {
+	color: #6F4E37;
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+
+
+}
+
+.name {
+	color: #6F4E37;
+	font-family: 'Anton', sans-serif;
+	border: solid;
+	border-radius: 2px 20px 2px 20px;
+	border-width: 3px;
+	border-right: 50%;
+	border-bottom: 50%;
+	border-top: 50%;
+	border-spacing: 50%;
+	text-align: center;
+
+
+}
+
+.links {
+	color: red; } 
+.links:visited {
+	color: black;}
+.links:hover {
+	color: blue;}
+.links:active {
+	background-color: black;
+
+}
+}
+
+html * {
+	font-family: Arial, Helvetica, sans-serif;
+}
+
