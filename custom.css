@@ -1,0 +1,41 @@
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+.h2-left {
+  display: inline-block;
+  padding-right: 10px;
+  font-weight: bold;
+}
+
+h1 {
+  font-family: Anton, sans-serif;
+}
+
+body {
+  background-color: beige; 
+   font-family: 'Open Sans', sans-serif;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 10px;
+  outline-color: black;
+  outline-style: solid;
+  outline-width: thick;
+
+}
+
+
+#Team\ 5 {
+  opacity: 1.0;
+}
+
+#Team\ 4 {
+	opacity: 1.0;
+}
+#Team\ 3 {
+	opacity: 1.0;
+}
+#Team\ 2 {
+	opacity: 1.0;
+}
+#Team\ 1 {
+	opacity: 1.0;
+}
+
