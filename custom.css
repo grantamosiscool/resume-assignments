@@ -1,41 +1,73 @@
-/* ADD YOUR CUSTOM CSS TO THIS FILE */
-.h2-left {
-  display: inline-block;
-  padding-right: 10px;
-  font-weight: bold;
-}
 
-h1 {
-  font-family: Anton, sans-serif;
-}
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
 
 body {
-  background-color: beige; 
-   font-family: 'Open Sans', sans-serif;
-  font-weight: 700;
-  line-height: 1.5;
-  padding: 10px;
-  outline-color: black;
-  outline-style: solid;
-  outline-width: thick;
-
+  font-family: 'Antonio', sans-serif;
+  font-weight: 600;
 }
 
 
-#Team\ 5 {
-  opacity: 1.0;
+.img-small {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 
-#Team\ 4 {
-	opacity: 1.0;
+.container-fluid{ 
+	text-align: center; }
+
+
+.img-fluid {
+	border: 3px solid black
+
 }
-#Team\ 3 {
-	opacity: 1.0;
-}
-#Team\ 2 {
-	opacity: 1.0;
-}
-#Team\ 1 {
-	opacity: 1.0;
+.bg-primary {
+	border: 3px solid black
 }
 
+.col-lg-8 {
+	border: 3px solid black
+}
+
+.col-lg-12 {
+	font-weight: bold
+}
+
+
+
+.container {
+	background-color: white
+	border: 2px solid black;
+}
+
+section:first-of-type {
+  background-image: linear-gradient(to right, 
+    lightblue, 
+    #4169E1);
+}
+
+section:nth-of-type(2) {
+  background-image: linear-gradient(to left, 
+    gold, 
+    teal);
+}
+
+section:nth-of-type(3) {
+  background-image: linear-gradient(to right, 
+    lightgreen, 
+    darkgreen);
+}
+
+section:nth-of-type(4) {
+  background-image: linear-gradient(to left, 
+    orange, 
+    white);
+}
+
+section:nth-of-type(5) {
+  background-image: linear-gradient(to right, 
+    white, 
+    #E31837);
+}
