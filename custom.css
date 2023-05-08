@@ -14,7 +14,6 @@ body {
 #honorable-mentions {
   background-color: black;
   
-
 }
 
 .navbar-nav .nav-item  {
@@ -22,9 +21,17 @@ body {
 
 }
 
+.section2_title, .section1_title, .section3_title, .section4_title, .section5_title, .honorable-mentions {
+  font-size: 50px
+}
 
 
+}
 
+#Socials {
+  background-color: #FFFDD0
+
+}
 
 .img-small {
   width: 50px;
@@ -64,6 +71,7 @@ header img {
 border-left: 2px solid white;
 border-top: none;
 border-right: 2px solid white;
+
 }
 
 .col-lg-12 {
@@ -72,13 +80,18 @@ border-right: 2px solid white;
 
 }
 
-.container-px-4 {
+
+
+
+.container.px-4 {
   border-color: black
   border-style: solid;
   border: 2px
 
 
+
 }
+
 
 
 .container {
@@ -140,3 +153,12 @@ border-left: 4px solid white;
 border-top: none;
 border-right: 4px solid white;
 }
+
+section:nth-of-type(6) {
+  border-bottom: 4px solid white;
+border-left: 4px solid white;
+border-top: none;
+border-right: 4px solid white;
+}
+
+
