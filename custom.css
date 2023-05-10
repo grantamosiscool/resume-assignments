@@ -58,19 +58,19 @@ header img {
 
 
 .img-fluid {
-	border: 3px solid white
+	border: 3px solid #FFB612;
 
 }
 .bg-primary {
-	border: 3px solid white
+	border: 3px solid #FFB612;
 }
 
 .col-lg-8 {
 	border: 3px solid white
-  border-bottom: 2px solid white;
-border-left: 2px solid white;
+  border-bottom: 2px solid #FFB612;
+border-left: 2px solid #FFB612;
 border-top: none;
-border-right: 2px solid white;
+border-right: 2px solid #FFB612;
 
 }
 
@@ -102,63 +102,109 @@ border-right: 2px solid white;
 
 section:first-of-type {
   background-image: linear-gradient(to right, 
-    lightblue, 
-    #4169E1);
+    black, 
+    #773141
+    );
   border: 2px
   border-style: solid;
-  border-color: white;
-  border-bottom: 4px solid white;
-border-left: 4px solid white;
-border-top: none;
-border-right: 4px solid white;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
 
 }
 
 section:nth-of-type(2) {
   background-image: linear-gradient(to left, 
-    gold, 
-    teal);
-  border-bottom: 4px solid white;
-border-left: 4px solid white;
-border-top: none;
-border-right: 4px solid white;
+    #773141, 
+    black);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
 }
 
 section:nth-of-type(3) {
   background-image: linear-gradient(to right, 
-    lightgreen, 
-    darkgreen);
-  border-bottom: 4px solid white;
-border-left: 4px solid white;
-border-top: none;
-border-right: 4px solid white;
+    black, 
+    #773141);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
 }
 
 section:nth-of-type(4) {
   background-image: linear-gradient(to right, 
-    orange, 
-    white);
-  border-bottom: 4px solid white;
-border-left: 4px solid white;
-border-top: none;
-border-right: 4px solid white;
+    #773141, 
+    black);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
 }
 
 section:nth-of-type(5) {
   background-image: linear-gradient(to right, 
-    white, 
-    #E31837);
-  border-bottom: 4px solid white;
-border-left: 4px solid white;
-border-top: none;
-border-right: 4px solid white;
+    black, 
+    #773141);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
 }
 
 section:nth-of-type(6) {
-  border-bottom: 4px solid white;
-border-left: 4px solid white;
-border-top: none;
-border-right: 4px solid white;
+  background-image: linear-gradient(to right, 
+    #773141, 
+    black);
+ border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
 }
 
+section:nth-of-type(7) {
+  background-image: linear-gradient(to left,
+    #FFB612, #5A1414) !important;
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
 
+.bg-primary {
+  background-image: linear-gradient(to left,
+    #FFB612, #5A1414) !important;
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+.text-white {
+  color: black !important 
+
+}
