@@ -1,0 +1,210 @@
+
+/* ADD YOUR CUSTOM CSS TO THIS FILE */
+
+body {
+  font-family: 'Antonio', sans-serif;
+  font-weight: 600;
+  color: white
+
+}
+.px-4-background-image {
+  background-color: black
+}
+
+#honorable-mentions {
+  background-color: black;
+  
+}
+
+.navbar-nav .nav-item  {
+  color: white;
+
+}
+
+.section2_title, .section1_title, .section3_title, .section4_title, .section5_title, .honorable-mentions {
+  font-size: 50px
+}
+
+
+}
+
+#Socials {
+  background-color: #FFFDD0
+
+}
+
+.img-small {
+  width: 50px;
+  height: 50px;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+header {
+  display: fixed;
+  justify-content: center;
+  align-items: center;
+}
+
+header img {
+  width: 50px;
+  height: 50px;
+  margin: 0 10px;
+}
+
+.container-fluid{ 
+	text-align: center; }
+
+
+.img-fluid {
+	border: 3px solid #FFB612;
+
+}
+.bg-primary {
+	border: 3px solid #FFB612;
+}
+
+.col-lg-8 {
+	border: 3px solid white
+  border-bottom: 2px solid #FFB612;
+border-left: 2px solid #FFB612;
+border-top: none;
+border-right: 2px solid #FFB612;
+
+}
+
+.col-lg-12 {
+	font-weight: bold
+  font-size: 50%;
+
+}
+
+
+
+
+.container.px-4 {
+  border-color: black
+  border-style: solid;
+  border: 2px
+
+
+
+}
+
+
+
+.container {
+	background-color: white
+	border: 2px white;
+
+}
+
+section:first-of-type {
+  background-image: linear-gradient(to right, 
+    black, 
+    #773141
+    );
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+
+}
+
+section:nth-of-type(2) {
+  background-image: linear-gradient(to left, 
+    #773141, 
+    black);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+section:nth-of-type(3) {
+  background-image: linear-gradient(to right, 
+    black, 
+    #773141);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+section:nth-of-type(4) {
+  background-image: linear-gradient(to right, 
+    #773141, 
+    black);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+section:nth-of-type(5) {
+  background-image: linear-gradient(to right, 
+    black, 
+    #773141);
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+section:nth-of-type(6) {
+  background-image: linear-gradient(to right, 
+    #773141, 
+    black);
+ border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+section:nth-of-type(7) {
+  background-image: linear-gradient(to left,
+    #FFB612, #5A1414) !important;
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+.bg-primary {
+  background-image: linear-gradient(to left,
+    #FFB612, #5A1414) !important;
+  border: 2px
+  border-style: solid;
+  border-color: #FFB612;
+  border-bottom: 4px solid #FFB612;
+border-left: 4px solid #FFB612;
+border-top: 4px solid #FFB612;
+border-right: 4px solid #FFB612;
+}
+
+.text-white {
+  color: black !important 
+
+}
